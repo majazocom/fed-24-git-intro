@@ -1,8 +1,7 @@
-# Git-lathund
+# Git-lathund, för att starta ett projekt
+
 ## Om du skapat ett projekt lokalt:
-
 * **Steg 1:** Skapa ditt nya repo på github utan en readme. Spara url:en du ser när du klickar på den gröna 'clone'-knappen.
-
 * **Steg 2:** Öppna ditt projekt i terminalen och stå i dess grundmapp där du ser projektets namn. Skriv sedan i följande i terminalen:
 ```git init
 git add .
