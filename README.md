@@ -9,7 +9,8 @@ git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin <din-kopierade-url-här>
-git push -u origin main```
+git push -u origin main
+```
 
 ## Om du vill skapa ett projekt från Github:
 * **Steg 1** Skapa repot i Github med en readme. Du skapar en readme i första vyn bland checkboxarna där du skapar nya repon.
